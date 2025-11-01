@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Tae 👋
+
+I’m a self-taught software developer with a background in data analysis and a strong focus on building scalable, full-stack web applications. I've started my journey learning from The Odin Project and plan to continue building new and exciting full-stack projects to evolve as a software developer. Excited to share my journey with you all!
+
+💻 Tech Stack:
+- Languages: JavaScript, SQL, Python
+- Frontend: React.js, HTML, CSS
+- Backend: Node.js, Express.js
+- Database: PostgreSQL
+
 
 <!--
 **taesubhan/taesubhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
